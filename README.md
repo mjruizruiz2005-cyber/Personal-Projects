@@ -142,7 +142,7 @@ cd perfume-recommendation-system
 pip install pandas numpy
 
 # Open the notebook
-jupyter notebook perfume_recommendation_v2_clean.ipynb
+jupyter notebook perfume_recommendation_v2.ipynb
 ```
 
 ### **Quick Usage**
