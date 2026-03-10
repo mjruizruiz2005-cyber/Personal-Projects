@@ -13,7 +13,7 @@ While developed as part of an academic course, this system reflects years of per
 
 ---
 
-##✨ Key Features
+## ✨ Key Features
 
 ### 🎼 **Harmony Scoring System**
 - **Compatibility Matrix**: Quantifies how well different olfactory families blend together
@@ -257,4 +257,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 <p align="center">
   <sub>⭐ If you found this project interesting, consider giving it a star!</sub>
 </p>
-```
+
