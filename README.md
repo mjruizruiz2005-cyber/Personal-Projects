@@ -1,14 +1,8 @@
 # Personal-Projects
 🧪 Experimental playground where passion projects come to life. Learning by building, one curiosity at a time.
 
-```markdown
 # 🌸 Perfume Recommendation System
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Latest-green.svg)](https://pandas.pydata.org/)
-
-> An intelligent perfume recommendation system combining olfactory science with algorithmic precision. Born from a personal passion for fragrance and the art of scent composition.
-
+An intelligent perfume recommendation system combining olfactory science with algorithmic precision. Born from a personal passion for fragrance and the art of scent composition.
 ---
 
 ## 🎯 Overview
@@ -19,7 +13,7 @@ While developed as part of an academic course, this system reflects years of per
 
 ---
 
-## ✨ Key Features
+##✨ Key Features
 
 ### 🎼 **Harmony Scoring System**
 - **Compatibility Matrix**: Quantifies how well different olfactory families blend together
@@ -35,29 +29,6 @@ While developed as part of an academic course, this system reflects years of per
 - **Olfactory Families**: Citrus, Floral, Woody, Oriental, Gourmand, and more
 - **Pyramid Structure**: Proper separation of volatile (Top), heart (Middle), and base notes
 - **Gender Fluidity**: Supports Masculine, Feminine, and Unisex preferences
-
----
-
-## 🏗️ System Architecture
-
-```mermaid
-graph TD
-    A[User Preferences] --> B[Fuzzy Archetype Matcher]
-    B --> C[Calculate Similarity Scores]
-    C --> D[Identify Best Archetype]
-    D --> E[Score Individual Notes]
-    E --> F[Generate Candidate Compositions]
-    F --> G[Calculate Harmony Scores]
-    G --> H[Select Optimal Composition]
-    H --> I[Recommended Perfume]
-    
-    J[Olfactory Database] --> E
-    K[Compatibility Matrix] --> G
-    
-    style A fill:#e1f5ff
-    style I fill:#c8e6c9
-    style G fill:#fff9c4
-```
 
 ---
 
